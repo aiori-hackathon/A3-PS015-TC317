@@ -1,8 +1,9 @@
+
 # Python cache
 __pycache__/
 *.py[cod]
 
-# Virtual environment
+# Virtual environments
 venv/
 .venv/
 env/
@@ -14,9 +15,17 @@ env/
 .env
 .env.*
 
-# Logs
+# Logs and generated text files
 *.log
 *.txt
+
 # OS files
 .DS_Store
 Thumbs.db
+
+# PyInstaller build files
+build/
+dist/
+
+# Keep the NetDetect executable
+!NetDetect.exe
