@@ -1,3 +1,7 @@
+# AIORI-3-HACKATHON-PROJECTS
+This repository will contain the code and resources for the AIORI-3 hackathon that will be developed during the AIORI-3
+youtube link: https://youtu.be/CRCWuSsh7EQ?si=1tGhr-LLL5UGYQ1Y 
+
 # NetDetect - Starter Prototype
 
 A Windows-friendly desktop prototype for explainable home-network diagnosis.
@@ -65,4 +69,7 @@ NetDetect/
 3. Add idle-vs-loaded latency measurement.
 4. Add safe, controlled fault-injection lab tests.
 5. Generate an evidence-based PDF report.
+
+
+
 
